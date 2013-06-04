@@ -14,6 +14,16 @@ This repo contains:
 
 
 
+
+## Under remodeling
+
+If you look at the curent code, pretty graphics are missing. Not to
+worry — we're just trying out new ideas based on what people had
+trouble with during the last workshop.
+
+
+
+
 ## Install
 
 - `git clone git@github.com:adcloud/clojure-intro-workshop.git`
